@@ -43,7 +43,7 @@ Dưới đây là 2 ví dụ mẫu minh họa quy tắc trích xuất và địn
 ```json
 {
   "name": "Trần Thị B",
-  "phone": "0905123456",
+  "phone": "********",
   "email": "b.tran@gmail.com",
   "position": "Backend Developer",
   "experience_years": 3,
