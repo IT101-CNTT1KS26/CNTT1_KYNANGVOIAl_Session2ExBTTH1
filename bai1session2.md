@@ -103,8 +103,8 @@ Khi bạn nạp đoạn email thô mới vào Prompt trên, AI sẽ trả về k
 ```json
 {
   "name": "Lê Hoàng Anh",
-  "phone": "0988777666",
-  "email": "anhlh@techcorp.vn",
+  "phone": "**********",
+  "email": "anh**@techcorp.vn",
   "position": "Fullstack Engineer",
   "experience_years": 2,
   "skills": ["Node.js", "React"]
