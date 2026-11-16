@@ -3,7 +3,7 @@
 
 ## PHẦN 1: THIẾT KẾ PROMPT HỆ THỐNG (CHUẨN KHUNG CREATE)
 
-Bạn có thể sao chép trực tiếp đoạn Prompt dưới đây để cấu hình cho trợ lý AI:
+Bạn có thể sao chép trực tiếp đoạn Prompt dưới đây để cấu hình cho AI:
 
 ```text
 [Context]
